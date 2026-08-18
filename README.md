@@ -175,6 +175,15 @@ princess-day/
 - **Framer Motion** - Smooth animations
 - **React Hot Toast** - Toast notifications
 
+## ☕ Support This Project
+
+If this project helped you, consider supporting:
+
+- **🇮🇳 For users in India:** [Buy Me a Chai](https://buymeachai.ezee.li/rushi45)
+- **🌍 For users outside India:** [Buy Me a Coffee](https://buymeacoffee.com/rushi45)
+
+Your support helps me create more projects like this! 💕
+
 ## 📝 License
 
 Made with 💕 for National Princess Day
