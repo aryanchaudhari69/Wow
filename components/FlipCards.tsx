@@ -20,7 +20,7 @@ const cards: Card[] = [
   {
     id: 1,
     image: '/assets/pic1.png',
-    message: 'I Love u Divya 💕',
+    message: 'I Love u Vedika 💕',
     gradient: 'from-pink-200 to-purple-200',
     delay: 0,
   },
